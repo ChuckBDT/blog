@@ -100,12 +100,14 @@ I'm around 30 now and convinced of one thing, moving is essential.
 
 For the body, the brain, relationships, work, everything. For too long i minimize the importance of sports activities in my life.
 
-So, in addition of another collective sport i'm already doing, i started to run again, alone. To move, to have this little time with myself only.
+So, in addition of judo that i started last year, i started to run again, alone. To move, to have this little time with myself only.
 
 ### Taking care of myself
-Eat better, sleep better ... It feels like this Radiohead song "Fitter happier" from OK Computer. But the end is totally different. 
+Eat better, sleep better ... It feels like this Radiohead song "Fitter happier" from [OK Computer](https://fr.wikipedia.org/wiki/OK_Computer) but with a totally different end.
 
-The goal for me is not to be "more productive" i mean, not all the time. The goal is to respect my body and enjoy the present moment. Be better when i need to act but also relax when it's not the time. 
+The goal for me is not to be "more productive" i mean, not all the time. 
+
+The goal is to respect my body and enjoy the present moment. Be better when i need to act but also relax when it's not the time. 
 
 Balance issue, again.
 
