@@ -118,7 +118,7 @@ I want to play again with NodeJS, Express to build an API. Some Docker too.
 
 I will use this blog to document and remember my creations. 
 
-I'm also looking for a new job as a full-stack developer, it's time knock on some doors and see what happens.
+I'm also looking for a new job as a full-stack developer, or maybe i will start a new company, don't know yet! Everything is possible!
 
 Thanks for the reading, see you soon 👋
 
