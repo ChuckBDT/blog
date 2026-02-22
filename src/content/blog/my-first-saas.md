@@ -12,7 +12,7 @@ I guess that's the big problem for a lot of solo developers, ready to build, but
 
 I woke up this morning with a funny idea : "Why not discuss with Claude and see where it goes?".
 
-After a chat — strange as it feels to say 'we' about a machine and myself — the idea emerged.
+After a chat, the idea emerged.
 ## Find a problem first
 A few years ago I ran a computer repair shop.
 
@@ -44,8 +44,10 @@ If at that time, I had founded a small saas that was doing just the basics, it r
 ## The tools
 Right now, I'm working with Cursor and Claude Code. My use of AI is actually really light, i'm not into vibe coding at all. 
 
-I prefer to write code myself and discuss how I can enhance it with AI. Since ChatGPT came out I used it this way and I learned a lot. But since then, a lot of new features have arrived. MCP, n8n, Claude Cowork ... And I surely miss a lot.
+I prefer to write code myself and discuss how I can enhance it with AI. Since ChatGPT came out I used it this way and I learned a lot. 
 
-It can be the opportunity for me to find the perfect balance between doing and delegating to an AI. 
+Recently a lot of new features have arrived. MCPs, n8n, Claude Cowork ... And I surely miss a lot.
+
+It also can be the opportunity for me to find the perfect balance between doing and delegating to an AI. 
 
 I feel excited! Thanks for the reading and see you on the next posts to follow this new project!
