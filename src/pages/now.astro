@@ -1,0 +1,73 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <h1>Now</h1>
+      <p>
+        I came across the <a href="https://nownownow.com/" target="_blank"
+          >/now page movement</a
+        > when i started this blog. I love this kind of ideas, it is simple, clean
+        and efficient so here's mine.<br />
+        <i>Last updated on 23/02/2026</i>
+      </p>
+      <h3>What i'm working on</h3>
+      <ul>
+        <li>Building this blog</li>
+        <li>
+          <a href="https://github.com/ChuckBDT/reparo" target="_blank">Reparo</a
+          > : a computer repair shop management software
+        </li>
+        <li>
+          My Unraid server : just installed <a
+            href="https://immich.app/"
+            target="_blank">Immich</a
+          > which is awesome (open source replacement for Apple/Google photos), i
+          might buy a new CPU soon because my i3 6100 is a bit outdated.
+        </li>
+      </ul>
+      <h3>What i'm reading</h3>
+      <ul>
+        <li>
+          <a
+            href="https://fr.wikipedia.org/wiki/Les_Carnets_du_sous-sol"
+            target="_blank">Les Carnets du sous-sol</a
+          > by Dostoïveski
+        </li>
+        <li>
+          <a
+            href="https://www.babelio.com/livres/Mhalla-Cyberpunk--Le-nouveau-systeme-totalitaire/1922751"
+            target="_blank">Cyberpunk : Le nouveau système totalitaire</a
+          > by Asma Mhalla
+        </li>
+        <li>
+          <a href="https://fr.wikipedia.org/wiki/Ravage_(roman)" target="_blank"
+            >Ravage</a
+          > by René Barjavel
+        </li>
+      </ul>
+      <h3>What i'm watching</h3>
+      <ul>
+        <li>
+          <a
+            href="https://fr.wikipedia.org/wiki/Person_of_Interest"
+            target="_blank">Person of Interest</a
+          > : I randomly discovered it and it's good, interesting enough to be watched
+          and not too brain burning. I like to watch an episode from time to time
+          before bed.
+        </li>
+      </ul>
+    </main>
+    <Footer />
+  </body>
+</html>
