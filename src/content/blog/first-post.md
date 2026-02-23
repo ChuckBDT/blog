@@ -46,8 +46,6 @@ Man, that felt wrong. What am i going to do?
 
 Starting a new dev project ? Why ? To create the 1000000th thing that has already been made by people with more time (and skills) than me ? I know i'm experienced enough now to take a langage / framework, read the doc and do something clean. So what's the point ?
 
-I won't continue here because if you're reading i'm pretty sure you already know the mindset i was in.
-
 ## Revelation
 OK, i need to stop with those titles or this post will look like a Twilight book. Or i should continue for the fun. 
 
@@ -55,15 +53,15 @@ Once again, i got lucky (that's not bragging, just trying to be positive here) a
 
 I deliberately won't explain the content of this book, you should try to read it and create your own understanding. 
 
-For me it was like a slap in the face. Even if i did not completely identify myself as the main character, i felt many similarities. And worse, i thought something like : "If you don't change, if you keep that mindset, you'll end up like him".
+For me it was like a slap in the face. After this reading i was like "You can't keep this mindset, you need to change. Now."
 
-It also answered a question i was asking myself since months : Why most of the people that act, seems not to think before ? Not that they're stupid but they make mistakes that i can see coming from far even if it's not my field of competences.
-
-The answer was simple: Because there's a lot of difference between thinking and acting, theory and practice. That's why.
+I also got an epiphany about the difference between thinking and acting, theory and practice.
 
 We are humans and as such, we are not perfect. So we logically can't (or need to work really hard) generate a perfect output.
 
-It's really easy to be away from a situation and think about it. But what about when you're "in" the situation? You can't have a 360° view of it, you need to act fast and so, you make compromises (and inevitably mistakes).
+It's really easy to be away from a situation and think about it. 
+
+But what about when you're "in" the situation? You can't have a 360° view of it, you need to act fast and so, you make compromises (and inevitably mistakes).
 
 The differences between the one who act and the one who think, is the end of the day. The first one will still be thinking and the second one will have done something. 
 It won't be perfect, probably won't be finished too but it will be something and not anything : A human creation.
@@ -74,7 +72,7 @@ Of course, the goal is to find the right balance between thinking and acting bec
 
 As i'm writing this, i notice that actually there is a big psychological thing to dig here. 
 
-The fear of other people's opinion and the fear of losing control. I'm not really concerned by the first one but the second one ... I mean, as long as you think and don't try to realize something, it stays perfect. You keep control on it. This is when you act that your thoughts come into a fight with reality, this is when you lost the control on it.
+The fear of other people's opinion and the fear of losing control. I'm not really concerned by the first one but the second one ... I mean, as long as you think and don't try to realize something, it stays perfect. You keep control on it. This is when you act that your thoughts come into a fight with reality, this is when you lose the control on it.
 
 Everything become possible, the good as the bad, isn't that terrifying ?
 
@@ -93,7 +91,7 @@ I created this blog for multiple reasons:
 
 For the last reason, i'm not saying i will provide the missing ingredient for a better world. I'm saying that i'm going to try to.
 
-By writing, showing some of my ideas and taking risks, if i help only one person the job is done.
+By writing, showing some of my ideas and taking risks, if i help only one person __the job is done.__
 
 ### Running
 I'm around 30 now and convinced of one thing, moving is essential. 
@@ -101,6 +99,8 @@ I'm around 30 now and convinced of one thing, moving is essential.
 For the body, the brain, relationships, work, everything. For too long i minimize the importance of sports activities in my life.
 
 So, in addition of judo that i started last year, i started to run again, alone. To move, to have this little time with myself only.
+
+And man, i'm loving it.
 
 ### Taking care of myself
 Eat better, sleep better ... It feels like this Radiohead song "Fitter happier" from [OK Computer](https://fr.wikipedia.org/wiki/OK_Computer) but with a totally different end.
