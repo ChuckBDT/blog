@@ -9,20 +9,21 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 <html lang="en">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <style>
+      .now-page {
+        font-style: italic;
+        font-size: 1rem;
+        margin-top: 2rem;
+      }
+    </style>
   </head>
   <body>
     <Header />
     <main>
       <h1>Now</h1>
-      <p>
-        I came across the <a href="https://nownownow.com/" target="_blank"
-          >/now page movement</a
-        > when i started this blog. I love this kind of ideas, it is simple, clean
-        and efficient so here's mine.<br />
-        <i>Last updated on 23/02/2026</i>
-      </p>
       <h3>What i'm working on</h3>
       <ul>
+        <li>Renovation work in all my house</li>
         <li>Building this blog</li>
         <li>
           <a href="https://github.com/ChuckBDT/reparo" target="_blank">Reparo</a
@@ -76,11 +77,26 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
           <a
             href="https://fr.wikipedia.org/wiki/Person_of_Interest"
             target="_blank">Person of Interest</a
-          > : I randomly discovered it and it's good, interesting enough to be watched
-          and not too brain burning. I like to watch an episode from time to time
-          before bed.
+          >: I randomly discovered it and it's good, interesting enough to be
+          watched and not too brain burning. I like to watch an episode from
+          time to time before bed.
         </li>
       </ul>
+      <h4>YouTube</h4>
+      <ul>
+        <li>
+          <a href="https://www.youtube.com/@Casey" target="_blank"
+            >Casey Neistat</a
+          >: It's been years i haven't watched his videos but YT recommended me
+          his channel recently. I forgot how much i enjoyed his videos back in
+          the days. I'm curious to know what he's up to now.
+        </li>
+      </ul>
+      <p class="now-page">
+        <b>Last updated on 28/02/2026</b><br />
+        This is a <a href="https://nownownow.com/about" target="_blank">/now</a> page.
+        If you have your own site, you should make one too.
+      </p>
     </main>
     <Footer />
   </body>
