@@ -1,5 +1,5 @@
 ---
-import AboutHeroImage from "../assets/blog-placeholder-about.jpg";
+import AboutHeroImage from "../assets/me.jpg";
 import Layout from "../layouts/BlogPost.astro";
 ---
 
@@ -10,4 +10,10 @@ import Layout from "../layouts/BlogPost.astro";
   heroImage={AboutHeroImage}
 >
   <p>To be written...</p>
+  <style>
+    .hero-image img {
+      width: 50% !important;
+      object-fit: cover;
+    }
+  </style>
 </Layout>
